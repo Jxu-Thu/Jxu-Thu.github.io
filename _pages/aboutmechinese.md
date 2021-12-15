@@ -12,6 +12,7 @@ author_profile: true
 * <i>2019.09 - 2020.10</i> 微软亚洲研究院. 算法研究实习生. 导师: <a href="https://www.microsoft.com/en-us/research/people/xuta/">谭旭</a>, <a href="https://www.microsoft.com/en-us/research/people/taoqin/">秦涛</a>
 * <i>2018.07 - 2019.02</i> 百度,商业智能实验室. 算法研究实习生. 导师: <a href="http://zhoujingbo.github.io/">周景博</a>, <a href="https://scholar.google.com/citations?user=cVDF1tkAAAAJ&hl=en">熊辉</a>
 
+
 获奖
 ======
 * <i>2020</i> <b>冠军</b> - KDDCUP AutoGraph 竞赛
@@ -19,6 +20,7 @@ author_profile: true
 * <i>2016</i> <b>铜牌</b> - 全国大学生数学竞赛(总决赛)
 * <i>2015</i> <b>一等奖</b> - 全国大学生数学竞赛
 * <i>2015</i> <b>一等奖</b> - 全国大学生部分地区物理竞赛
+
 
 Publications & Preprints
 ======
