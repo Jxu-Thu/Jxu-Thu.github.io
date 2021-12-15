@@ -7,12 +7,12 @@ author_profile: true
 
 徐进目前是<a href="https://iiis.tsinghua.edu.cn">清华大学交叉信息研究院</a>的四年级博士生(2018-2023)，博士生导师是<a href="http://people.iiis.tsinghua.edu.cn/~jianli">李建</a>副教授。本科毕业于<a href="https://www.bupt.edu.cn">北京邮电大学</a>通信工程专业(2014-2018, 排名1/565)，并获得北京邮电大学特等奖学金(3/1600), 后保送至清华大学交叉信息研究院。我对语音以及语言处理有着强烈的兴趣，最近主要关注面向现实应用场景的低资源语音识别与合成，NLP大规模预训练技术，自动架构搜索等方向。目前，我在KDD、NeurIPS等国际人工智能顶级会议上发表论文10篇，其中第一作者4篇。
 
-Internship
+实习经历
 ======
-* <i>2019.09 - 2020.10</i> Microsoft Research Asia. Full-time Research Intern 
-  Supervisor: <a href="https://www.microsoft.com/en-us/research/people/xuta/">Xu Tan</a>, <a href="https://www.microsoft.com/en-us/research/people/taoqin/">Tao Qin</a>
-* <i>2018.07 - 2019.02</i> Baidu Business Intelligence Lab. Full-time Research Intern 
-  Supervisor: <a href="http://zhoujingbo.github.io/">Jingbo Zhou</a>, <a href="https://scholar.google.com/citations?user=cVDF1tkAAAAJ&hl=en">Hui Xiong</a>
+* <i>2019.09 - 2020.10</i> 微软亚洲研究院. 算法研究实习生  
+  导师: <a href="https://www.microsoft.com/en-us/research/people/xuta/">谭旭</a>, <a href="https://www.microsoft.com/en-us/research/people/taoqin/">秦涛</a>
+* <i>2018.07 - 2019.02</i> 百度,商业智能实验室. 算法研究实习生
+  Supervisor: <a href="http://zhoujingbo.github.io/">周景博</a>, <a href="https://scholar.google.com/citations?user=cVDF1tkAAAAJ&hl=en">熊辉</a>
 
 Publications & Preprints
 ======
@@ -52,7 +52,7 @@ td, th {
 
 <table style="border: none!important;">
 	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://Jxu-Thu.github.io/images/pub/fastcorrect2_emnlp2022.jpg" width="250">
+	    <img src="http://Jxu-Thu.github.io/images/pub/autohensgnn_icde2022.jpg" width="250">
 	  </td>
 	  <td style="width:10px">
 	  </td>
