@@ -87,7 +87,7 @@ td, th {
         </b>
         <br>
 		<i>
-        	ACL 2021
+        	KDD 2019
         </i>
         <br>
 	    	Jingbo Zhou, Shan Gou, Renjun Hu, Dongxiang Zhang, <b>Jin Xu</b>, Airong Jiang, Ying Li, Hui Xiong
