@@ -15,10 +15,7 @@ author_profile: true
 
 获奖
 ======
-* 2019 第十名 - KDDCUP AutoML 竞赛
-* 2016 铜牌 - 全国大学生数学竞赛(总决赛)
-* 2015 一等奖 - 全国大学生数学竞赛
-* 2015 一等奖 - 全国大学生部分地区物理竞赛
+
 
 
 Publications & Preprints
