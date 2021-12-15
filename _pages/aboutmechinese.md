@@ -32,7 +32,7 @@ td, th {
         </b>
         <br>
 		<i>
-        	<b>Arxiv Preprint</b>
+        	Arxiv Preprint
         </i>
         <br>
 	    	<b>Jin Xu</b>, Xu Tan, Kaitao Song, Renqian Luo, Yichong Leng, Tao Qin, Tie-Yan Liu, Jian Li
@@ -56,7 +56,7 @@ td, th {
         </b>
         <br>
 		<i>
-        	<b>ICDE 2022</b>
+        	ICDE 2022
         </i>
         <br>
 	    	<b>Jin Xu*</b>, Mingjian Chen*, Jianqiang Huang, Xingyuan Tang, Ke Hu, Jian Li, Jia Cheng, Jun Lei
@@ -155,7 +155,7 @@ td, th {
         </b>
         <br>
 		<i>
-        	<b>KDD 2021</b>
+        	KDD 2021
         </i>
         <br>
 	    	<b>Jin Xu</b>, Xu Tan, Renqian Luo, Kaitao Song, Jian Li, Tao Qin, Tie-Yan Liu
@@ -239,7 +239,7 @@ td, th {
 
 <table style="border: none!important;">
 	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://transirius.github.io/images/pub/kat.png" width="250">
+	    <img src="http://Jxu-Thu.github.io/images/pub/multispeech.jpg" width="250">
 	  </td>
 	  <td style="width:10px">
 	  </td>
