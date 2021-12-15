@@ -5,12 +5,20 @@ permalink: /aboutmechinese/
 author_profile: true
 ---
 
-徐进目前是<a href="https://iiis.tsinghua.edu.cn">清华大学交叉信息研究院</a>的四年级博士生(2018-2023)，博士生导师是<a href="http://people.iiis.tsinghua.edu.cn/~jianli">李建</a>副教授。本科毕业于<a href="https://www.bupt.edu.cn">北京邮电大学</a>通信工程专业(2014-2018, 排名1/565)，并获得北京邮电大学特等奖学金(3/1600), 后保送至清华大学交叉信息研究院。我对语音以及语言处理有着强烈的兴趣，最近主要关注面向现实应用场景的低资源语音识别与合成，NLP大规模预训练技术，自动架构搜索等方向。目前，我在KDD、NeurIPS等国际人工智能顶级会议上发表论文10篇，其中第一作者4篇。
+徐进目前是<a href="https://iiis.tsinghua.edu.cn">清华大学交叉信息研究院</a>的四年级博士生(2018-2023)，博士生导师是<a href="http://people.iiis.tsinghua.edu.cn/~jianli">李建</a>副教授。本科毕业于<a href="https://www.bupt.edu.cn">北京邮电大学</a>通信工程专业(2014-2018, 排名1/565)，并获得北京邮电大学特等奖学金, 后保送至清华大学交叉信息研究院。我对语音以及语言处理有着强烈的兴趣，最近主要关注面向现实应用场景的低资源语音识别与合成，NLP大规模预训练技术，自动架构搜索等方向。目前，我在KDD、NeurIPS等国际人工智能顶级会议上发表论文10篇，其中第一作者4篇。
 
 实习经历
 ======
 * <i>2019.09 - 2020.10</i> 微软亚洲研究院. 算法研究实习生. 导师: <a href="https://www.microsoft.com/en-us/research/people/xuta/">谭旭</a>, <a href="https://www.microsoft.com/en-us/research/people/taoqin/">秦涛</a>
 * <i>2018.07 - 2019.02</i> 百度,商业智能实验室. 算法研究实习生. 导师: <a href="http://zhoujingbo.github.io/">周景博</a>, <a href="https://scholar.google.com/citations?user=cVDF1tkAAAAJ&hl=en">熊辉</a>
+
+获奖
+======
+* <i>2020</i> <b>冠军</b> - KDDCUP AutoGraph 竞赛 <b>冠军</b>
+* <i>2019</i> 第十名 - KDDCUP AutoML 竞赛
+* <i>2016</i> <b>铜牌</b> - 全国大学生数学竞赛(总决赛)
+* <i>2015</i> <b>一等奖</b> - 全国大学生数学竞赛
+* <i>2015</i> <b>一等奖</b> - 全国大学生部分地区物理竞赛
 
 Publications & Preprints
 ======
