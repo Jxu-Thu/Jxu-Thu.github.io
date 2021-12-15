@@ -13,10 +13,6 @@ author_profile: true
 * <i>2018.07 - 2019.02</i> 百度,商业智能实验室. 算法研究实习生. 导师: <a href="http://zhoujingbo.github.io/">周景博</a>, <a href="https://scholar.google.com/citations?user=cVDF1tkAAAAJ&hl=en">熊辉</a>
 
 
-获奖
-======
-
-
 
 Publications & Preprints
 ======
