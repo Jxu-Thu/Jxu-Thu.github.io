@@ -9,6 +9,7 @@ author_profile: true
 
 Publications & Preprints
 ======
+
 2022
 -----
 
@@ -31,7 +32,7 @@ td, th {
         </b>
         <br>
 		<i>
-        	Arxiv Preprint
+        	<b>Arxiv Preprint</b>
         </i>
         <br>
 	    	<b>Jin Xu</b>, Xu Tan, Kaitao Song, Renqian Luo, Yichong Leng, Tao Qin, Tie-Yan Liu, Jian Li
@@ -55,7 +56,7 @@ td, th {
         </b>
         <br>
 		<i>
-        	ICDE 2022
+        	<b>ICDE 2022</b>
         </i>
         <br>
 	    	<b>Jin Xu*</b>, Mingjian Chen*, Jianqiang Huang, Xingyuan Tang, Ke Hu, Jian Li, Jia Cheng, Jun Lei
@@ -154,7 +155,7 @@ td, th {
         </b>
         <br>
 		<i>
-        	KDD 2021
+        	<b>KDD 2021</b>
         </i>
         <br>
 	    	<b>Jin Xu</b>, Xu Tan, Renqian Luo, Kaitao Song, Jian Li, Tao Qin, Tie-Yan Liu
@@ -183,8 +184,6 @@ td, th {
 	    	Linghui Meng, <b>Jin Xu</b>, Xu Tan, Jindong Wang, Tao Qin, Bo Xu
         <br>
 		[<a href="https://arxiv.org/abs/2102.12664">PDF</a>]
-        <br>
-			We propose to decouple the representation learning stage and the decision making stage to fully utilize unlabeled data for entity matching task.
 		</div>
 	</td></tr></tbody>
 </table>
@@ -198,7 +197,7 @@ td, th {
 	  <td valign="middle">
 	    <div>
 		<b>
-			Graph Symbiosis Learning
+			Effective Graph Learning with Adaptive Knowledge Exchange
         </b>
         <br>
 		<i>
@@ -208,8 +207,6 @@ td, th {
 	    	Liang Zeng*, <b>Jin Xu*</b>, Zijun Yao, Yanqiao Zhu, Jian Li
         <br>
 		[<a href="https://arxiv.org/abs/2106.05455">PDF</a>]
-        <br>
-			We introduce a framework for learning from multiple generated graph views, named graph symbiosis learning (GraphSym). In GraphSym, graph neural networks (GNN) developed in multiple generated graph views can adaptively exchange parameters with each other and fuse information stored in linkage structures and node features.
 		</div>
 	</td></tr></tbody>
 </table>
