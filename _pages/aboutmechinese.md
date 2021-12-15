@@ -9,10 +9,8 @@ author_profile: true
 
 实习经历
 ======
-* <i>2019.09 - 2020.10</i> 微软亚洲研究院. 算法研究实习生   
-  导师: <a href="https://www.microsoft.com/en-us/research/people/xuta/">谭旭</a>, <a href="https://www.microsoft.com/en-us/research/people/taoqin/">秦涛</a>
-* <i>2018.07 - 2019.02</i> 百度,商业智能实验室. 算法研究实习生  
-  导师: <a href="http://zhoujingbo.github.io/">周景博</a>, <a href="https://scholar.google.com/citations?user=cVDF1tkAAAAJ&hl=en">熊辉</a>
+* <i>2019.09 - 2020.10</i> 微软亚洲研究院. 算法研究实习生. 导师: <a href="https://www.microsoft.com/en-us/research/people/xuta/">谭旭</a>, <a href="https://www.microsoft.com/en-us/research/people/taoqin/">秦涛</a>
+* <i>2018.07 - 2019.02</i> 百度,商业智能实验室. 算法研究实习生. 导师: <a href="http://zhoujingbo.github.io/">周景博</a>, <a href="https://scholar.google.com/citations?user=cVDF1tkAAAAJ&hl=en">熊辉</a>
 
 Publications & Preprints
 ======
