@@ -9,8 +9,10 @@ author_profile: true
 
 Internship
 ======
-* <i>2019.09 - 2020.10</i> Microsoft Research Asia. Full-time Research Intern, Supervisor: <a href="https://www.microsoft.com/en-us/research/people/xuta/">Xu Tan</a>, <a href="https://www.microsoft.com/en-us/research/people/taoqin/">Tao Qin</a>
-* <i>2018.07 - 2019.02</i> Baidu Business Intelligence Lab. Full-time Research Intern, Supervisor: <a href="http://zhoujingbo.github.io/">Jingbo Zhou</a>, <a href="https://scholar.google.com/citations?user=cVDF1tkAAAAJ&hl=en">Hui Xiong</a>
+* <i>2019.09 - 2020.10</i> Microsoft Research Asia. Full-time Research Intern 
+  Supervisor: <a href="https://www.microsoft.com/en-us/research/people/xuta/">Xu Tan</a>, <a href="https://www.microsoft.com/en-us/research/people/taoqin/">Tao Qin</a>
+* <i>2018.07 - 2019.02</i> Baidu Business Intelligence Lab. Full-time Research Intern 
+  Supervisor: <a href="http://zhoujingbo.github.io/">Jingbo Zhou</a>, <a href="https://scholar.google.com/citations?user=cVDF1tkAAAAJ&hl=en">Hui Xiong</a>
 
 Publications & Preprints
 ======
@@ -121,7 +123,7 @@ td, th {
 
 <table style="border: none!important;">
 	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://transirius.github.io/images/pub/kat.png" width="250">
+	    <img src="http://Jxu-Thu.github.io/images/pub/speechT_nips2022.jpg" width="250">
 	  </td>
 	  <td style="width:10px">
 	  </td>
@@ -149,7 +151,7 @@ td, th {
 
 <table style="border: none!important;">
 	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://transirius.github.io/images/pub/kat.png" width="250">
+	    <img src="http://Jxu-Thu.github.io/images/pub/nasbert_kdd2021.jpg" width="250">
 	  </td>
 	  <td style="width:10px">
 	  </td>
@@ -172,7 +174,7 @@ td, th {
 
 <table style="border: none!important;">
 	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://transirius.github.io/images/pub/kat.png" width="250">
+	    <img src="http://Jxu-Thu.github.io/images/pub/mixspeech_icassp.jpg" width="250">
 	  </td>
 	  <td style="width:10px">
 	  </td>
@@ -220,7 +222,7 @@ td, th {
 -----
 <table style="border: none!important;">
 	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://transirius.github.io/images/pub/kat.png" width="250">
+	    <img src="http://Jxu-Thu.github.io/images/pub/revenue_icde2020.png" width="250">
 	  </td>
 	  <td style="width:10px">
 	  </td>
@@ -270,7 +272,7 @@ td, th {
 
 <table style="border: none!important;">
 	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://transirius.github.io/images/pub/kat.png" width="250">
+	    <img src="http://Jxu-Thu.github.io/images/pub/poitag.jpg" width="250">
 	  </td>
 	  <td style="width:10px">
 	  </td>
