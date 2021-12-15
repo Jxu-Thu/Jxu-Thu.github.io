@@ -15,7 +15,6 @@ author_profile: true
 
 获奖
 ======
-* <i>2020</i> <b>冠军</b> - KDDCUP AutoGraph 竞赛
 * <i>2019</i> 第十名 - KDDCUP AutoML 竞赛
 * <i>2016</i> <b>铜牌</b> - 全国大学生数学竞赛(总决赛)
 * <i>2015</i> <b>一等奖</b> - 全国大学生数学竞赛

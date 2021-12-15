@@ -20,7 +20,6 @@ Internship
 
 Award
 ======
-* <i>2020</i> <b>Rank 1st</b> - KDDCUP AutoGraph Competition
 * <i>2019</i> Rank 10st - KDDCUP AutoML Competition
 * <i>2015</i> <b>First Prize</b> - Mathematical Contest in Modeling
 * <i>2015</i> <b>First Prize</b> - University Students Physics Competition in Parts of the Country
