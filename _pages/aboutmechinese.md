@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "徐进"
-permalink: /aboutmeinchinese/
+permalink: /aboutmechinese/
 author_profile: true
 ---
 
