@@ -20,7 +20,7 @@ Internship
 
 Award
 ======
-what
+* <i>2015</i> <b>First Prize</b> - University Students Physics Competition in Parts of the Country
 
 Publications & Preprints
 ======
