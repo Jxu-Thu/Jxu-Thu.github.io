@@ -9,9 +9,8 @@ author_profile: true
 
 Internship
 ======
-
-* <i>2019.09 - 2020.10</i> Microsoft Research Asia. Full-time Research Intern, Supervisor: Xu Tan, Tao Qin
-* <i>2018.07 - 2019.02</i> Baidu Business Intelligence Lab. Full-time Research Intern, Supervisor: Jingbo Zhou, Hui Xiong
+* <i>2019.09 - 2020.10</i> Microsoft Research Asia. Full-time Research Intern, Supervisor: <a href="https://www.microsoft.com/en-us/research/people/xuta/">Xu Tan</a>, <a href="https://www.microsoft.com/en-us/research/people/taoqin/">Tao Qin</a>
+* <i>2018.07 - 2019.02</i> Baidu Business Intelligence Lab. Full-time Research Intern, Supervisor: <a href="http://zhoujingbo.github.io/">Jingbo Zhou</a>, <a href="https://scholar.google.com/citations?user=cVDF1tkAAAAJ&hl=en">Hui Xiong</a>
 
 Publications & Preprints
 ======
