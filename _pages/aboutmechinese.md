@@ -76,7 +76,7 @@ td, th {
 
 <table style="border: none!important;">
 	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://transirius.github.io/images/pub/kat.png" width="250">
+	    <img src="http://Jxu-Thu.github.io/images/pub/fastcorrect2_emnlp2022.jpg" width="250">
 	  </td>
 	  <td style="width:10px">
 	  </td>
@@ -99,7 +99,7 @@ td, th {
 
 <table style="border: none!important;">
 	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://transirius.github.io/images/pub/kat.png" width="250">
+	    <img src="http://Jxu-Thu.github.io/images/pub/fastcorrect_nips2022.jpg" width="250">
 	  </td>
 	  <td style="width:10px">
 	  </td>
