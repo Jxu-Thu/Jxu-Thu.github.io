@@ -17,14 +17,7 @@ Internship
 * <i>2018.07 - 2019.02</i> Business Intelligence Lab, Baidu. Full-time Research Intern  
   Supervisor: <a href="http://zhoujingbo.github.io/">Jingbo Zhou</a>, <a href="https://scholar.google.com/citations?user=cVDF1tkAAAAJ&hl=en">Hui Xiong</a>
 
-
-Award
-======
-* <i>2019</i> Rank 10st - KDDCUP AutoML Competition
-* <i>2015</i> <b>First Prize</b> - Mathematical Contest in Modeling
-* <i>2015</i> <b>First Prize</b> - University Students Physics Competition in Parts of the Country
-
-
+  
 Publications & Preprints
 ======
 
