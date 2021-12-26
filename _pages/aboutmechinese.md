@@ -227,6 +227,29 @@ td, th {
 -----
 <table style="border: none!important;">
 	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
+	    <img src="http://Jxu-Thu.github.io/images/pub/lrspeech_kdd2020.png" width="250">
+	  </td>
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	LRSpeech: Extremely low-resource speech synthesis and recognition
+        </b>
+        <br>
+		<i>
+        	KDD 2020
+        </i>
+        <br>
+	    	<b>Jin Xu</b>, Xu Tan, Yi Ren, Tao Qin, Jian Li, Sheng Zhao, Tie-Yan Liu
+        <br>
+		[<a href="https://dl.acm.org/doi/pdf/10.1145/3394486.3403331">PDF</a>]
+		</div>
+	</td></tr></tbody>
+</table>
+
+<table style="border: none!important;">
+	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
 	    <img src="http://Jxu-Thu.github.io/images/pub/revenue_icde2020.png" width="250">
 	  </td>
 	  <td style="width:10px">
