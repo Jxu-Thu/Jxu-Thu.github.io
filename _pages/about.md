@@ -84,76 +84,6 @@ td, th {
 </table>
 
 
-<table style="border: none!important;">
-	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://Jxu-Thu.github.io/images/pub/fastcorrect2_emnlp2022.jpg" width="250">
-	  </td>
-	  <td style="width:10px">
-	  </td>
-	  <td valign="middle">
-	    <div>
-	    	<b>
-        	FastCorrect 2: Fast Error Correction on Multiple Candidates for Automatic Speech Recognition
-        </b>
-        <br>
-		<i>
-        	EMNLP 2022 Findings
-        </i>
-        <br>
-	    	Yichong Leng, Xu Tan, Rui Wang, Linchen Zhu, <b>Jin Xu</b>, Wenjie Liu, Linquan Liu, Xiang-Yang Li, Tao Qin, Edward Lin, Tie-Yan Liu
-        <br>
-		[<a href="https://aclanthology.org/2021.findings-emnlp.367/">PDF</a>]
-		</div>
-	</td></tr></tbody>
-</table>
-
-<table style="border: none!important;">
-	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://Jxu-Thu.github.io/images/pub/fastcorrect_nips2022.jpg" width="250">
-	  </td>
-	  <td style="width:10px">
-	  </td>
-	  <td valign="middle">
-	    <div>
-	    	<b>
-        	FastCorrect: Fast Error Correction with Edit Alignment for Automatic Speech Recognition
-        </b>
-        <br>
-		<i>
-        	NeurIPS 2022
-        </i>
-        <br>
-	    	Yichong Leng, Xu Tan, Linchen Zhu, <b>Jin Xu</b>, Renqian Luo, Linquan Liu, Tao Qin, Xiang-Yang Li, Ed Lin, Tie-Yan Liu
-        <br>
-		[<a href="https://proceedings.neurips.cc/paper/2021/file/b597460c506e8e35fb0cc1c1905dd3bc-Paper.pdf">PDF</a>]
-		</div>
-	</td></tr></tbody>
-</table>
-
-
-<table style="border: none!important;">
-	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://Jxu-Thu.github.io/images/pub/speechT_nips2022.jpg" width="250">
-	  </td>
-	  <td style="width:10px">
-	  </td>
-	  <td valign="middle">
-	    <div>
-	    	<b>
-        	Speech-T: Transducer for Text to Speech and Beyond
-        </b>
-        <br>
-		<i>
-        	NeurIPS 2022
-        </i>
-        <br>
-	    	Jiawei Chen, Xu Tan, Yichong Leng, <b>Jin Xu</b>, Guihua Wen, Tao Qin, Tie-Yan Liu
-        <br>
-		[<a href="https://proceedings.neurips.cc/paper/2021/hash/344ef5151be171062f42f03e69663ecf-Abstract.html">PDF</a>]
-		</div>
-	</td></tr></tbody>
-</table>
-
 
 2021
 -----
@@ -181,6 +111,78 @@ td, th {
 		</div>
 	</td></tr></tbody>
 </table>
+
+
+<table style="border: none!important;">
+	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
+	    <img src="http://Jxu-Thu.github.io/images/pub/fastcorrect2_emnlp2022.jpg" width="250">
+	  </td>
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	FastCorrect 2: Fast Error Correction on Multiple Candidates for Automatic Speech Recognition
+        </b>
+        <br>
+		<i>
+        	EMNLP 2021 Findings
+        </i>
+        <br>
+	    	Yichong Leng, Xu Tan, Rui Wang, Linchen Zhu, <b>Jin Xu</b>, Wenjie Liu, Linquan Liu, Xiang-Yang Li, Tao Qin, Edward Lin, Tie-Yan Liu
+        <br>
+		[<a href="https://aclanthology.org/2021.findings-emnlp.367/">PDF</a>]
+		</div>
+	</td></tr></tbody>
+</table>
+
+<table style="border: none!important;">
+	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
+	    <img src="http://Jxu-Thu.github.io/images/pub/fastcorrect_nips2022.jpg" width="250">
+	  </td>
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	FastCorrect: Fast Error Correction with Edit Alignment for Automatic Speech Recognition
+        </b>
+        <br>
+		<i>
+        	NeurIPS 2021
+        </i>
+        <br>
+	    	Yichong Leng, Xu Tan, Linchen Zhu, <b>Jin Xu</b>, Renqian Luo, Linquan Liu, Tao Qin, Xiang-Yang Li, Ed Lin, Tie-Yan Liu
+        <br>
+		[<a href="https://proceedings.neurips.cc/paper/2021/file/b597460c506e8e35fb0cc1c1905dd3bc-Paper.pdf">PDF</a>]
+		</div>
+	</td></tr></tbody>
+</table>
+
+
+<table style="border: none!important;">
+	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
+	    <img src="http://Jxu-Thu.github.io/images/pub/speechT_nips2022.jpg" width="250">
+	  </td>
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	Speech-T: Transducer for Text to Speech and Beyond
+        </b>
+        <br>
+		<i>
+        	NeurIPS 2021
+        </i>
+        <br>
+	    	Jiawei Chen, Xu Tan, Yichong Leng, <b>Jin Xu</b>, Guihua Wen, Tao Qin, Tie-Yan Liu
+        <br>
+		[<a href="https://proceedings.neurips.cc/paper/2021/hash/344ef5151be171062f42f03e69663ecf-Abstract.html">PDF</a>]
+		</div>
+	</td></tr></tbody>
+</table>
+
 
 <table style="border: none!important;">
 	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
