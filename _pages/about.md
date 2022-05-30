@@ -49,7 +49,7 @@ td, th {
         </b>
         <br>
 		<i>
-        	ICML 2022 [Spotlight]
+        	ICML 2022, <b>Spotlight</b>
         </i>
         <br>
 	    	<b>Jin Xu</b>, Xu Tan, Kaitao Song, Renqian Luo, Yichong Leng, Tao Qin, Tie-Yan Liu, Jian Li
@@ -268,7 +268,7 @@ td, th {
         </b>
         <br>
 		<i>
-        	ICDE 2020 [Oral]
+        	ICDE 2020, <b>Oral</b>
         </i>
         <br>
 	    	<b>Jin Xu</b>, Jingbo Zhou, Yongpo Jia, Jian Li, Xiong Hui
