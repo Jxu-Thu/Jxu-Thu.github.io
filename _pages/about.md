@@ -268,7 +268,7 @@ td, th {
         </b>
         <br>
 		<i>
-        	ICDE 2020
+        	ICDE 2020 [Oral]
         </i>
         <br>
 	    	<b>Jin Xu</b>, Jingbo Zhou, Yongpo Jia, Jian Li, Xiong Hui
