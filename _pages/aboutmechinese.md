@@ -44,7 +44,7 @@ td, th {
         </b>
         <br>
 		<i>
-        	ICML 2022 [Spotlight]
+        	ICML 2022, <b>Spotlight</b>
         </i>
         <br>
 	    	<b>Jin Xu</b>, Xu Tan, Kaitao Song, Renqian Luo, Yichong Leng, Tao Qin, Tie-Yan Liu, Jian Li
