@@ -5,7 +5,7 @@ permalink: /aboutmechinese/
 author_profile: true
 ---
 
-我目前是<a href="https://iiis.tsinghua.edu.cn">清华大学交叉信息研究院</a>的五年级博士生(2018-2023)，博士生导师是<a href="http://people.iiis.tsinghua.edu.cn/~jianli">李建</a>副教授。本科毕业于<a href="https://www.bupt.edu.cn">北京邮电大学</a>通信工程专业(2014-2018, 排名1/565)，并获得北京邮电大学特等奖学金, 后保送至清华大学交叉信息研究院。我对语音以及语言处理有着强烈的兴趣，最近主要关注面向现实应用场景的低资源语音识别与合成，NLP大规模预训练技术，自动架构搜索等方向。目前，我在KDD、ICML、NeurIPS等国际人工智能顶级会议上发表论文11篇，其中第一作者5篇。
+我目前是<a href="https://iiis.tsinghua.edu.cn">清华大学交叉信息研究院</a>的五年级博士生(2018-2023)，博士生导师是<a href="http://people.iiis.tsinghua.edu.cn/~jianli">李建</a>副教授。本科毕业于<a href="https://www.bupt.edu.cn">北京邮电大学</a>通信工程专业(2014-2018, 排名1/565)，并获得北京邮电大学特等奖学金, 后保送至清华大学交叉信息研究院。我对语音以及语言处理有着强烈的兴趣，最近主要关注面向现实应用场景的低资源语音识别与合成，NLP大规模预训练技术，自动架构搜索等方向。目前，我在KDD、ICML、NeurIPS等国际人工智能顶级会议上发表论文12篇，其中第一作者6篇。
 
 实习经历
 ======
@@ -30,6 +30,29 @@ td, th {
    border: none!important;
 }
 </style>
+
+<table style="border: none!important;">
+	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
+	    <img src="http://Jxu-Thu.github.io/images/pub/DITTO.jpg" width="250">
+	  </td>
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	Learning to Break the Loop: Analyzing and Mitigating Repetitions for Neural Text Generation
+        </b>
+        <br>
+		<i>
+        	NeurlPS 2022
+        </i>
+        <br>
+	    	<b>Jin Xu</b>, Xiaojiang Liu, Jianhao Yan, Deng Cai, Huayang Li, Jian Li
+        <br>
+		[<a href="https://arxiv.org/abs/2206.02369">PDF</a>]
+		</div>
+	</td></tr></tbody>
+</table>
 
 <table style="border: none!important;">
 	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">

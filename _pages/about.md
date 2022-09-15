@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a fifth-year Ph.D. (2018 - 2023) candidate of Institute for Interdisciplinary Information Sciences (<a href="https://iiis.tsinghua.edu.cn">IIIS</a>) at <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a> (Beijing), advised by <a href="http://people.iiis.tsinghua.edu.cn/~jianli">Prof. Jian Li</a>. I got BSc degree from <a href="https://www.bupt.edu.cn">Beijing of Posts and Telecommunication University</a> in 2018. During my undergraduate, I ranked first (1/565) and obtained the Special Scholarship (1/1600). I have much interest in speech and language processing. Recently, I mainly focus on low-resource speech and language processing for real-world applications, large-scale pre-training for NLP, and Neural Architecture Search (NAS). I have 11 papers accepted by top-tier conferences (5 of them as the first author) such as KDD, ICML and NeurIPs.
+I am currently a fifth-year Ph.D. (2018 - 2023) candidate of Institute for Interdisciplinary Information Sciences (<a href="https://iiis.tsinghua.edu.cn">IIIS</a>) at <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a> (Beijing), advised by <a href="http://people.iiis.tsinghua.edu.cn/~jianli">Prof. Jian Li</a>. I got BSc degree from <a href="https://www.bupt.edu.cn">Beijing of Posts and Telecommunication University</a> in 2018. During my undergraduate, I ranked first (1/565) and obtained the Special Scholarship (1/1600). I have much interest in speech and language processing. Recently, I mainly focus on low-resource speech and language processing for real-world applications, large-scale pre-training for NLP, and Neural Architecture Search (NAS). I have 12 papers accepted by top-tier conferences (6 of them as the first author) such as KDD, ICML and NeurIPs.
 
 Internship
 ======
@@ -35,6 +35,29 @@ td, th {
    border: none!important;
 }
 </style>
+
+<table style="border: none!important;">
+	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
+	    <img src="http://Jxu-Thu.github.io/images/pub/DITTO.jpg" width="250">
+	  </td>
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	Learning to Break the Loop: Analyzing and Mitigating Repetitions for Neural Text Generation
+        </b>
+        <br>
+		<i>
+        	NeurlPS 2022
+        </i>
+        <br>
+	    	<b>Jin Xu</b>, Xiaojiang Liu, Jianhao Yan, Deng Cai, Huayang Li, Jian Li
+        <br>
+		[<a href="https://arxiv.org/abs/2206.02369">PDF</a>]
+		</div>
+	</td></tr></tbody>
+</table>
 
 <table style="border: none!important;">
 	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
