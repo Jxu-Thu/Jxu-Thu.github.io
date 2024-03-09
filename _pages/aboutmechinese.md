@@ -4,10 +4,8 @@ title: "清华 - 徐进"
 permalink: /aboutmechinese/
 author_profile: true
 ---
-
-我目前是<a href="https://iiis.tsinghua.edu.cn">清华大学交叉信息研究院</a>的五年级博士生(2018-2023)，博士生导师是<a href="http://people.iiis.tsinghua.edu.cn/~jianli">李建</a>副教授。本科毕业于<a href="https://www.bupt.edu.cn">北京邮电大学</a>通信工程专业(2014-2018, 排名1/565)，并获得北京邮电大学特等奖学金, 后保送至清华大学交叉信息研究院。我对语音以及语言处理有着强烈的兴趣，最近主要关注面向现实应用场景的低资源语音识别与合成，NLP大规模预训练技术，自动架构搜索等方向。目前，我在KDD、ICML、NeurIPS等国际人工智能顶级会议上发表论文13篇，其中第一作者6篇。
-
-<span style="color:blue">News: 我目前正在找教职工作或者公司的研究岗位，欢迎联系我！</span>
+我目前是阿里巴巴通义千问基础大模型组的算法专家，负责大规模语音合成，通用语音合成，通用语音理解以及围绕语音多模态的Chat模型研究。在此之前，我是<a href="https://iiis.tsinghua.edu.cn">清华大学交叉信息研究院</a>的博士生(2018-2023)，研究大模型自动架构搜索，低资源语音合成与识别，自回归语言模型重复问题的优化以及图模型应用等。博士生导师是<a href="http://people.iiis.tsinghua.edu.cn/~jianli">李建</a>副教授。本科毕业于<a href="https://www.bupt.edu.cn">北京邮电大学</a>通信工程专业(2014-2018, 排名1/565)，获北京邮电大学特等奖学金。目前，我在ICLR、ICML、NeurIPS、KDD等国际人工智能顶级会议上发表论文数十篇。
+<span style="color:blue">News: 通义千问基础大模型语音组正在招语音合成/识别算法实习生以及校招同学，欢迎联系我。</span>
 
 实习经历
 ======
@@ -24,15 +22,161 @@ author_profile: true
 Publications & Preprints
 ======
 
-2022
------
-
 <style>
 td, th {
    border: none!important;
 }
 </style>
 
+2024
+-----
+<table style="border: none!important;">
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	AIR-Bench: Benchmarking Large Audio-Language Models via Generative Comprehension
+        </b>
+        <br>
+		<i>
+        	Arxiv Preprint
+        </i>
+        <br>
+            Qian Yang, Jin Xu, Wenrui Liu, Yunfei Chu, Ziyue Jiang, Xiaohuan Zhou, Yichong Leng, Yuanjun Lv, Zhou Zhao, Chang Zhou, Jingren Zhou
+        <br>
+		[<a href="https://arxiv.org/abs/2402.07729">PDF</a>]
+		</div>
+	</td>
+</table>
+
+
+<table style="border: none!important;">
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	Understanding In-Context Learning from Repetitions
+        </b>
+        <br>
+		<i>
+        	ICLR
+        </i>
+        <br>
+            Jianhao Yan, Jin Xu, Chiyu Song, Chenming Wu, Yafu Li, Yue Zhang
+        <br>
+		[<a href="https://arxiv.org/abs/2310.00297">PDF</a>]
+		</div>
+	</td>
+</table>
+
+2023
+-----
+<table style="border: none!important;">
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models
+        </b>
+        <br>
+		<i>
+        	Arxiv Preprint
+        </i>
+        <br>
+            Yunfei Chu*, Jin Xu*, Xiaohuan Zhou*, Qian Yang, Shiliang Zhang, Zhijie Yan, Chang Zhou, Jingren Zhou
+        <br>
+		[<a href="https://arxiv.org/abs/2311.07919">PDF</a>]
+		</div>
+	</td>
+</table>
+
+<table style="border: none!important;">
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	Qwen technical report
+        </b>
+        <br>
+		<i>
+        	Arxiv Preprint
+        </i>
+        <br>
+            Jinze Bai, Shuai Bai, Yunfei Chu, Zeyu Cui, Kai Dang, Xiaodong Deng, Yang Fan, Wenbin Ge, Yu Han, Fei Huang, Binyuan Hui, Luo Ji, Mei Li, Junyang Lin, Runji Lin, Dayiheng Liu, Gao Liu, Chengqiang Lu, Keming Lu, Jianxin Ma, Rui Men, Xingzhang Ren, Xuancheng Ren, Chuanqi Tan, Sinan Tan, Jianhong Tu, Peng Wang, Shijie Wang, Wei Wang, Shengguang Wu, Benfeng Xu, <b>Jin Xu</b>, An Yang, Hao Yang, Jian Yang, Shusheng Yang, Yang Yao, Bowen Yu, Hongyi Yuan, Zheng Yuan, Jianwei Zhang, Xingxuan Zhang, Yichang Zhang, Zhenru Zhang, Chang Zhou, Jingren Zhou, Xiaohuan Zhou, Tianhang Zhu
+        <br>
+		[<a href="https://arxiv.org/abs/2309.16609">PDF</a>]
+		</div>
+	</td>
+</table>
+
+
+<table style="border: none!important;">
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	LauraGPT: Listen, Attend, Understand, and Regenerate Audio with GPT
+        </b>
+        <br>
+		<i>
+        	Arxiv Preprint
+        </i>
+        <br>
+            Qian Chen, Yunfei Chu, Zhifu Gao, Zerui Li, Kai Hu, Xiaohuan Zhou, <b>Jin Xu</b>, Ziyang Ma, Wen Wang, Siqi Zheng, Chang Zhou, Zhijie Yan, Shiliang Zhang
+        <br>
+		[<a href="https://arxiv.org/abs/2310.04673">PDF</a>]
+		</div>
+	</td>
+</table>
+
+<table style="border: none!important;">
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	DC-MBR: Distributional Cooling for Minimum Bayesian Risk Decoding
+        </b>
+        <br>
+		<i>
+        	COLING
+        </i>
+        <br>
+            Jianhao Yan, <b>Jin Xu</b>, Fandong Meng, Jie Zhou, Yue Zhang
+        <br>
+		[<a href="https://arxiv.org/abs/2212.04205">PDF</a>]
+		</div>
+	</td>
+</table>
+
+<table style="border: none!important;">
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	Effective Graph Learning with Adaptive Knowledge Exchange
+        </b>
+        <br>
+		<i>
+        	CIKM
+        </i>
+        <br>
+            Liang Zeng*, <b>Jin Xu*</b>, Zijun Yao, Yanqiao Zhu, Jian Li
+        <br>
+		[<a href="https://arxiv.org/abs/2106.05455">PDF</a>]
+		</div>
+	</td>
+</table>
+
+
+2022
+-----
 <table style="border: none!important;">
 	  <td style="width:10px">
 	  </td>
@@ -63,7 +207,7 @@ td, th {
         </b>
         <br>
 		<i>
-        	ICML 2022, <b>Spotlight</b>
+        	ICML, <b>Spotlight</b>
         </i>
         <br>
 	    	<b>Jin Xu</b>, Xu Tan, Kaitao Song, Renqian Luo, Yichong Leng, Tao Qin, Tie-Yan Liu, Jian Li
@@ -84,7 +228,7 @@ td, th {
         </b>
         <br>
 		<i>
-        	ICDE 2022
+        	ICDE
         </i>
         <br>
 	    	<b>Jin Xu*</b>, Mingjian Chen*, Jianqiang Huang, Xingyuan Tang, Ke Hu, Jian Li, Jia Cheng, Jun Lei
@@ -111,14 +255,14 @@ td, th {
         </b>
         <br>
 		<i>
-        	KDD 2021
+        	KDD
         </i>
         <br>
 	    	<b>Jin Xu</b>, Xu Tan, Renqian Luo, Kaitao Song, Jian Li, Tao Qin, Tie-Yan Liu
         <br>
 		[<a href="https://dl.acm.org/doi/10.1145/3447548.3467262">PDF</a>]
 		</div>
-	</td></tr></tbody>
+	</td>
 </table>
 
 <table style="border: none!important;">
@@ -131,7 +275,7 @@ td, th {
         </b>
         <br>
 		<i>
-        	EMNLP 2021 Findings
+        	EMNLP Findings
         </i>
         <br>
 	    	Yichong Leng, Xu Tan, Rui Wang, Linchen Zhu, <b>Jin Xu</b>, Wenjie Liu, Linquan Liu, Xiang-Yang Li, Tao Qin, Edward Lin, Tie-Yan Liu
@@ -151,7 +295,7 @@ td, th {
         </b>
         <br>
 		<i>
-        	NeurIPS 2021
+        	NeurIPS
         </i>
         <br>
 	    	Yichong Leng, Xu Tan, Linchen Zhu, <b>Jin Xu</b>, Renqian Luo, Linquan Liu, Tao Qin, Xiang-Yang Li, Ed Lin, Tie-Yan Liu
@@ -172,7 +316,7 @@ td, th {
         </b>
         <br>
 		<i>
-        	NeurIPS 2021
+        	NeurIPS
         </i>
         <br>
 	    	Jiawei Chen, Xu Tan, Yichong Leng, <b>Jin Xu</b>, Guihua Wen, Tao Qin, Tie-Yan Liu
@@ -192,7 +336,7 @@ td, th {
         </b>
         <br>
 		<i>
-        	ICASSP 2021
+        	ICASSP
         </i>
         <br>
 	    	Linghui Meng, <b>Jin Xu</b>, Xu Tan, Jindong Wang, Tao Qin, Bo Xu
@@ -202,25 +346,6 @@ td, th {
 	</td>
 </table>
 
-<table style="border: none!important;">
-	  <td style="width:10px">
-	  </td>
-	  <td valign="middle">
-	    <div>
-		<b>
-			Effective Graph Learning with Adaptive Knowledge Exchange
-        </b>
-        <br>
-		<i>
-        	Arxiv Preprint
-        </i>
-        <br>
-	    	Liang Zeng*, <b>Jin Xu*</b>, Zijun Yao, Yanqiao Zhu, Jian Li
-        <br>
-		[<a href="https://arxiv.org/abs/2106.05455">PDF</a>]
-		</div>
-	</td>
-</table>
 
 2020
 -----
@@ -234,7 +359,7 @@ td, th {
         </b>
         <br>
 		<i>
-        	KDD 2020
+        	KDD
         </i>
         <br>
 	    	<b>Jin Xu</b>, Xu Tan, Yi Ren, Tao Qin, Jian Li, Sheng Zhao, Tie-Yan Liu
@@ -254,7 +379,7 @@ td, th {
         </b>
         <br>
 		<i>
-        	ICDE 2020, <b>Oral</b>
+        	ICDE, <b>Oral</b>
         </i>
         <br>
 	    	<b>Jin Xu</b>, Jingbo Zhou, Yongpo Jia, Jian Li, Xiong Hui
@@ -275,7 +400,7 @@ td, th {
         </b>
         <br>
 		<i>
-        	InterSpeech 2020
+        	InterSpeech
         </i>
         <br>
 	    	Mingjian Chen, Xu Tan, Yi Ren, <b>Jin Xu</b>, Hao Sun, Sheng Zhao, Tao Qin, Tie-Yan Liu
@@ -298,7 +423,7 @@ td, th {
         </b>
         <br>
 		<i>
-        	KDD 2019
+        	KDD
         </i>
         <br>
 	    	Jingbo Zhou, Shan Gou, Renjun Hu, Dongxiang Zhang, <b>Jin Xu</b>, Airong Jiang, Ying Li, Hui Xiong
