@@ -34,9 +34,6 @@ td, th {
 </style>
 
 <table style="border: none!important;">
-	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://Jxu-Thu.github.io/images/pub/DITTO.png" width="250">
-	  </td>
 	  <td style="width:10px">
 	  </td>
 	  <td valign="middle">
@@ -57,9 +54,6 @@ td, th {
 </table>
 
 <table style="border: none!important;">
-	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://Jxu-Thu.github.io/images/pub/magicnas.jpg" width="250">
-	  </td>
 	  <td style="width:10px">
 	  </td>
 	  <td valign="middle">
@@ -81,9 +75,6 @@ td, th {
 
 
 <table style="border: none!important;">
-	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://Jxu-Thu.github.io/images/pub/autohensgnn_icde2022.jpg" width="250">
-	  </td>
 	  <td style="width:10px">
 	  </td>
 	  <td valign="middle">
@@ -111,9 +102,6 @@ td, th {
 
 
 <table style="border: none!important;">
-	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://Jxu-Thu.github.io/images/pub/nasbert_kdd2021.jpg" width="250">
-	  </td>
 	  <td style="width:10px">
 	  </td>
 	  <td valign="middle">
@@ -134,9 +122,6 @@ td, th {
 </table>
 
 <table style="border: none!important;">
-	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://Jxu-Thu.github.io/images/pub/fastcorrect2_emnlp2022.jpg" width="250">
-	  </td>
 	  <td style="width:10px">
 	  </td>
 	  <td valign="middle">
@@ -157,9 +142,6 @@ td, th {
 </table>
 
 <table style="border: none!important;">
-	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://Jxu-Thu.github.io/images/pub/fastcorrect_nips2022.jpg" width="250">
-	  </td>
 	  <td style="width:10px">
 	  </td>
 	  <td valign="middle">
@@ -181,9 +163,6 @@ td, th {
 
 
 <table style="border: none!important;">
-	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://Jxu-Thu.github.io/images/pub/speechT_nips2022.jpg" width="250">
-	  </td>
 	  <td style="width:10px">
 	  </td>
 	  <td valign="middle">
@@ -204,9 +183,6 @@ td, th {
 </table>
 
 <table style="border: none!important;">
-	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://Jxu-Thu.github.io/images/pub/mixspeech_icassp.jpg" width="250">
-	  </td>
 	  <td style="width:10px">
 	  </td>
 	  <td valign="middle">
@@ -227,9 +203,6 @@ td, th {
 </table>
 
 <table style="border: none!important;">
-	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://Jxu-Thu.github.io/images/pub/symbiosis.png" width="250">
-	  </td>
 	  <td style="width:10px">
 	  </td>
 	  <td valign="middle">
@@ -252,9 +225,6 @@ td, th {
 2020
 -----
 <table style="border: none!important;">
-	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://Jxu-Thu.github.io/images/pub/lrspeech_kdd2020.jpg" width="250">
-	  </td>
 	  <td style="width:10px">
 	  </td>
 	  <td valign="middle">
@@ -275,9 +245,6 @@ td, th {
 </table>
 
 <table style="border: none!important;">
-	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://Jxu-Thu.github.io/images/pub/revenue_icde2020.png" width="250">
-	  </td>
 	  <td style="width:10px">
 	  </td>
 	  <td valign="middle">
@@ -299,9 +266,6 @@ td, th {
 
 
 <table style="border: none!important;">
-	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://Jxu-Thu.github.io/images/pub/multispeech.jpg" width="250">
-	  </td>
 	  <td style="width:10px">
 	  </td>
 	  <td valign="middle">
@@ -325,9 +289,6 @@ td, th {
 -----
 
 <table style="border: none!important;">
-	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://Jxu-Thu.github.io/images/pub/poitag.jpg" width="250">
-	  </td>
 	  <td style="width:10px">
 	  </td>
 	  <td valign="middle">
