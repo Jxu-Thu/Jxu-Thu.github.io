@@ -6,7 +6,7 @@ author_profile: true
 ---
 我目前是阿里巴巴通义千问基础大模型组的算法专家，负责大规模语音合成，通用音频合成，通用语音理解以及围绕音频多模态的Chat模型研究。在此之前，我是<a href="https://iiis.tsinghua.edu.cn">清华大学交叉信息研究院</a>的博士生(2018-2023)，研究大模型自动架构搜索，低资源语音合成与识别，自回归语言模型重复问题的优化以及图模型应用等。博士生导师是<a href="http://people.iiis.tsinghua.edu.cn/~jianli">李建</a>教授。本科毕业于<a href="https://www.bupt.edu.cn">北京邮电大学</a>通信工程专业(2014-2018, 排名1/565)，获北京邮电大学特等奖学金。目前，我在ICLR、ICML、NeurIPS、KDD等国际人工智能顶级会议上发表论文数十篇。
 
-<span style="color:blue">News: 通义千问基础大模型语音组正在招语音合成/识别算法实习生以及校招同学，欢迎联系我。</span>
+<span style="color:blue">News: 通义千问基础大模型语音组正在招语音合成/识别算法实习生以及校招同学，欢迎联系我 (jxu3425 dot gmail dot com)。</span>
 
 实习经历
 ======

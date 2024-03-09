@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently an Algorithm Expert at Alibaba Qwen Group, responsible for research on large-scale speech synthesis, general audio synthesis, general speech understanding, and chat models centered on audio. Prior to this, I was a Ph.D. student of Institute for Interdisciplinary Information Sciences (<a href="https://iiis.tsinghua.edu.cn">IIIS</a>) at <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a> (Beijing), researching large model automatic architecture search, low-resource speech synthesis and recognition, repetition problems in autoregressive language models, and applications of graph models. My doctoral advisor was Associate Professor <a href="http://people.iiis.tsinghua.edu.cn/~jianli">Prof. Jian Li</a>. I got BSc degree from <a href="https://www.bupt.edu.cn">Beijing of Posts and Telecommunication University</a> in 2018. During my undergraduate, I ranked first (1/565) and obtained the Special Scholarship (1/1600). Currently, I have published dozens of papers at top international AI conferences such as ICLR, ICML, NeurIPS, and KDD.
 
-<span style="color:blue">News: We are looking for interns or FTEs working for speech synthesis and audio chat models.</span>
+<span style="color:blue">News: We are looking for interns or FTEs working for speech synthesis and audio chat models. Please drop the email to me (jxu3425 dot gmail dot com)</span>
 
 Internship
 ======
