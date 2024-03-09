@@ -50,7 +50,7 @@ td, th {
         <br>
 		[<a href="https://arxiv.org/abs/2206.02369">PDF</a>]
 		</div>
-	</td></tr></tbody>
+	</td>
 </table>
 
 <table style="border: none!important;">
@@ -70,7 +70,7 @@ td, th {
         <br>
 		[<a href="https://arxiv.org/abs/2108.12821">PDF</a>]
 		</div>
-	</td></tr></tbody>
+	</td>
 </table>
 
 
@@ -91,7 +91,7 @@ td, th {
         <br>
 		[<a href="https://arxiv.org/abs/2111.12952">PDF</a>]
 		</div>
-	</td></tr></tbody>
+	</td>
 </table>
 
 
@@ -138,7 +138,7 @@ td, th {
         <br>
 		[<a href="https://aclanthology.org/2021.findings-emnlp.367/">PDF</a>]
 		</div>
-	</td></tr></tbody>
+	</td>
 </table>
 
 <table style="border: none!important;">
@@ -158,7 +158,7 @@ td, th {
         <br>
 		[<a href="https://proceedings.neurips.cc/paper/2021/file/b597460c506e8e35fb0cc1c1905dd3bc-Paper.pdf">PDF</a>]
 		</div>
-	</td></tr></tbody>
+	</td>
 </table>
 
 
@@ -179,7 +179,7 @@ td, th {
         <br>
 		[<a href="https://proceedings.neurips.cc/paper/2021/hash/344ef5151be171062f42f03e69663ecf-Abstract.html">PDF</a>]
 		</div>
-	</td></tr></tbody>
+	</td>
 </table>
 
 <table style="border: none!important;">
@@ -199,7 +199,7 @@ td, th {
         <br>
 		[<a href="https://arxiv.org/abs/2102.12664">PDF</a>]
 		</div>
-	</td></tr></tbody>
+	</td>
 </table>
 
 <table style="border: none!important;">
@@ -219,7 +219,7 @@ td, th {
         <br>
 		[<a href="https://arxiv.org/abs/2106.05455">PDF</a>]
 		</div>
-	</td></tr></tbody>
+	</td>
 </table>
 
 2020
@@ -241,7 +241,7 @@ td, th {
         <br>
 		[<a href="https://dl.acm.org/doi/pdf/10.1145/3394486.3403331">PDF</a>]
 		</div>
-	</td></tr></tbody>
+	</td>
 </table>
 
 <table style="border: none!important;">
@@ -261,7 +261,7 @@ td, th {
         <br>
 		[<a href="https://ieeexplore.ieee.org/abstract/document/9101395">PDF</a>]
 		</div>
-	</td></tr></tbody>
+	</td>
 </table>
 
 
@@ -282,7 +282,7 @@ td, th {
         <br>
 		[<a href="https://indico2.conference4me.psnc.pl/event/35/contributions/3867/attachments/794/832/Thu-1-11-11.pdf">PDF</a>]
 		</div>
-	</td></tr></tbody>
+	</td>
 </table>
 
 2019
@@ -305,6 +305,6 @@ td, th {
         <br>
 		[<a href="https://dl.acm.org/doi/abs/10.1145/3292500.3330698">PDF</a>]
 		</div>
-	</td></tr></tbody>
+	</td>
 </table>
 
