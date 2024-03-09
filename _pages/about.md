@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a fifth-year Ph.D. (2018 - 2023) candidate of Institute for Interdisciplinary Information Sciences (<a href="https://iiis.tsinghua.edu.cn">IIIS</a>) at <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a> (Beijing), advised by <a href="http://people.iiis.tsinghua.edu.cn/~jianli">Prof. Jian Li</a>. I got BSc degree from <a href="https://www.bupt.edu.cn">Beijing of Posts and Telecommunication University</a> in 2018. During my undergraduate, I ranked first (1/565) and obtained the Special Scholarship (1/1600). I have much interest in speech and language processing. Recently, I mainly focus on low-resource speech and language processing for real-world applications, large-scale pre-training for NLP, and Neural Architecture Search (NAS). I have 12 papers accepted by top-tier conferences (6 of them as the first author) such as KDD, ICML and NeurIPS.
+I am currently an Algorithm Expert at Alibaba Qwen group, responsible for research on large-scale speech synthesis, general audio synthesis, general speech understanding, and chat models centered on audio. Prior to this, I was a Ph.D. student of Institute for Interdisciplinary Information Sciences (<a href="https://iiis.tsinghua.edu.cn">IIIS</a>) at <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a> (Beijing), researching large model automatic architecture search, low-resource speech synthesis and recognition, repetition problems in autoregressive language models, and applications of graph models. My doctoral advisor was Associate Professor <a href="http://people.iiis.tsinghua.edu.cn/~jianli">Prof. Jian Li</a>. I got BSc degree from <a href="https://www.bupt.edu.cn">Beijing of Posts and Telecommunication University</a> in 2018. During my undergraduate, I ranked first (1/565) and obtained the Special Scholarship (1/1600). Currently, I have published dozens of papers at top international AI conferences such as ICLR, ICML, NeurIPS, and KDD.
 
-<span style="color:blue">News: I am looking for a research position at colleges or companies.</span>
+<span style="color:blue">News: We are looking for interns or FTEs working for speech synthesis and audio chat models.</span>
 
 Internship
 ======
@@ -29,8 +29,8 @@ Award
 Publications & Preprints
 ======
 
-2022
------
+Publications & Preprints
+======
 
 <style>
 td, th {
@@ -38,10 +38,156 @@ td, th {
 }
 </style>
 
+2024
+-----
 <table style="border: none!important;">
-	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://Jxu-Thu.github.io/images/pub/DITTO.png" width="250">
+	  <td style="width:10px">
 	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	AIR-Bench: Benchmarking Large Audio-Language Models via Generative Comprehension
+        </b>
+        <br>
+		<i>
+        	Arxiv Preprint
+        </i>
+        <br>
+            Qian Yang, <b>Jin Xu</b>, Wenrui Liu, Yunfei Chu, Ziyue Jiang, Xiaohuan Zhou, Yichong Leng, Yuanjun Lv, Zhou Zhao, Chang Zhou, Jingren Zhou
+        <br>
+		[<a href="https://arxiv.org/abs/2402.07729">PDF</a>]
+		</div>
+	</td>
+</table>
+
+
+<table style="border: none!important;">
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	Understanding In-Context Learning from Repetitions
+        </b>
+        <br>
+		<i>
+        	ICLR
+        </i>
+        <br>
+            Jianhao Yan, <b>Jin Xu</b>, Chiyu Song, Chenming Wu, Yafu Li, Yue Zhang
+        <br>
+		[<a href="https://arxiv.org/abs/2310.00297">PDF</a>]
+		</div>
+	</td>
+</table>
+
+2023
+-----
+<table style="border: none!important;">
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models
+        </b>
+        <br>
+		<i>
+        	Arxiv Preprint
+        </i>
+        <br>
+            Yunfei Chu*, <b>Jin Xu*</b>, Xiaohuan Zhou*, Qian Yang, Shiliang Zhang, Zhijie Yan, Chang Zhou, Jingren Zhou
+        <br>
+		[<a href="https://arxiv.org/abs/2311.07919">PDF</a>]
+		</div>
+	</td>
+</table>
+
+<table style="border: none!important;">
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	Qwen technical report
+        </b>
+        <br>
+		<i>
+        	Arxiv Preprint
+        </i>
+        <br>
+            Jinze Bai, Shuai Bai, Yunfei Chu, Zeyu Cui, Kai Dang, Xiaodong Deng, Yang Fan, Wenbin Ge, Yu Han, Fei Huang, Binyuan Hui, Luo Ji, Mei Li, Junyang Lin, Runji Lin, Dayiheng Liu, Gao Liu, Chengqiang Lu, Keming Lu, Jianxin Ma, Rui Men, Xingzhang Ren, Xuancheng Ren, Chuanqi Tan, Sinan Tan, Jianhong Tu, Peng Wang, Shijie Wang, Wei Wang, Shengguang Wu, Benfeng Xu, <b>Jin Xu</b>, An Yang, Hao Yang, Jian Yang, Shusheng Yang, Yang Yao, Bowen Yu, Hongyi Yuan, Zheng Yuan, Jianwei Zhang, Xingxuan Zhang, Yichang Zhang, Zhenru Zhang, Chang Zhou, Jingren Zhou, Xiaohuan Zhou, Tianhang Zhu
+        <br>
+		[<a href="https://arxiv.org/abs/2309.16609">PDF</a>]
+		</div>
+	</td>
+</table>
+
+
+<table style="border: none!important;">
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	LauraGPT: Listen, Attend, Understand, and Regenerate Audio with GPT
+        </b>
+        <br>
+		<i>
+        	Arxiv Preprint
+        </i>
+        <br>
+            Qian Chen, Yunfei Chu, Zhifu Gao, Zerui Li, Kai Hu, Xiaohuan Zhou, <b>Jin Xu</b>, Ziyang Ma, Wen Wang, Siqi Zheng, Chang Zhou, Zhijie Yan, Shiliang Zhang
+        <br>
+		[<a href="https://arxiv.org/abs/2310.04673">PDF</a>]
+		</div>
+	</td>
+</table>
+
+<table style="border: none!important;">
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	DC-MBR: Distributional Cooling for Minimum Bayesian Risk Decoding
+        </b>
+        <br>
+		<i>
+        	COLING
+        </i>
+        <br>
+            Jianhao Yan, <b>Jin Xu</b>, Fandong Meng, Jie Zhou, Yue Zhang
+        <br>
+		[<a href="https://arxiv.org/abs/2212.04205">PDF</a>]
+		</div>
+	</td>
+</table>
+
+<table style="border: none!important;">
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	Effective Graph Learning with Adaptive Knowledge Exchange
+        </b>
+        <br>
+		<i>
+        	CIKM
+        </i>
+        <br>
+            Liang Zeng*, <b>Jin Xu*</b>, Zijun Yao, Yanqiao Zhu, Jian Li
+        <br>
+		[<a href="https://arxiv.org/abs/2106.05455">PDF</a>]
+		</div>
+	</td>
+</table>
+
+
+2022
+-----
+<table style="border: none!important;">
 	  <td style="width:10px">
 	  </td>
 	  <td valign="middle">
@@ -58,13 +204,10 @@ td, th {
         <br>
 		[<a href="https://arxiv.org/abs/2206.02369">PDF</a>]
 		</div>
-	</td></tr></tbody>
+	</td>
 </table>
 
 <table style="border: none!important;">
-	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://Jxu-Thu.github.io/images/pub/magicnas.jpg" width="250">
-	  </td>
 	  <td style="width:10px">
 	  </td>
 	  <td valign="middle">
@@ -74,21 +217,18 @@ td, th {
         </b>
         <br>
 		<i>
-        	ICML 2022, <b>Spotlight</b>
+        	ICML, <b>Spotlight</b>
         </i>
         <br>
 	    	<b>Jin Xu</b>, Xu Tan, Kaitao Song, Renqian Luo, Yichong Leng, Tao Qin, Tie-Yan Liu, Jian Li
         <br>
 		[<a href="https://arxiv.org/abs/2108.12821">PDF</a>]
 		</div>
-	</td></tr></tbody>
+	</td>
 </table>
 
 
 <table style="border: none!important;">
-	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://Jxu-Thu.github.io/images/pub/autohensgnn_icde2022.jpg" width="250">
-	  </td>
 	  <td style="width:10px">
 	  </td>
 	  <td valign="middle">
@@ -98,15 +238,16 @@ td, th {
         </b>
         <br>
 		<i>
-        	ICDE 2022
+        	ICDE
         </i>
         <br>
 	    	<b>Jin Xu*</b>, Mingjian Chen*, Jianqiang Huang, Xingyuan Tang, Ke Hu, Jian Li, Jia Cheng, Jun Lei
         <br>
 		[<a href="https://arxiv.org/abs/2111.12952">PDF</a>]
 		</div>
-	</td></tr></tbody>
+	</td>
 </table>
+
 
 
 
@@ -115,9 +256,6 @@ td, th {
 
 
 <table style="border: none!important;">
-	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://Jxu-Thu.github.io/images/pub/nasbert_kdd2021.jpg" width="250">
-	  </td>
 	  <td style="width:10px">
 	  </td>
 	  <td valign="middle">
@@ -127,21 +265,17 @@ td, th {
         </b>
         <br>
 		<i>
-        	KDD 2021
+        	KDD
         </i>
         <br>
 	    	<b>Jin Xu</b>, Xu Tan, Renqian Luo, Kaitao Song, Jian Li, Tao Qin, Tie-Yan Liu
         <br>
 		[<a href="https://dl.acm.org/doi/10.1145/3447548.3467262">PDF</a>]
 		</div>
-	</td></tr></tbody>
+	</td>
 </table>
 
-
 <table style="border: none!important;">
-	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://Jxu-Thu.github.io/images/pub/fastcorrect2_emnlp2022.jpg" width="250">
-	  </td>
 	  <td style="width:10px">
 	  </td>
 	  <td valign="middle">
@@ -151,20 +285,17 @@ td, th {
         </b>
         <br>
 		<i>
-        	EMNLP 2021 Findings
+        	EMNLP Findings
         </i>
         <br>
 	    	Yichong Leng, Xu Tan, Rui Wang, Linchen Zhu, <b>Jin Xu</b>, Wenjie Liu, Linquan Liu, Xiang-Yang Li, Tao Qin, Edward Lin, Tie-Yan Liu
         <br>
 		[<a href="https://aclanthology.org/2021.findings-emnlp.367/">PDF</a>]
 		</div>
-	</td></tr></tbody>
+	</td>
 </table>
 
 <table style="border: none!important;">
-	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://Jxu-Thu.github.io/images/pub/fastcorrect_nips2022.jpg" width="250">
-	  </td>
 	  <td style="width:10px">
 	  </td>
 	  <td valign="middle">
@@ -174,21 +305,18 @@ td, th {
         </b>
         <br>
 		<i>
-        	NeurIPS 2021
+        	NeurIPS
         </i>
         <br>
 	    	Yichong Leng, Xu Tan, Linchen Zhu, <b>Jin Xu</b>, Renqian Luo, Linquan Liu, Tao Qin, Xiang-Yang Li, Ed Lin, Tie-Yan Liu
         <br>
 		[<a href="https://proceedings.neurips.cc/paper/2021/file/b597460c506e8e35fb0cc1c1905dd3bc-Paper.pdf">PDF</a>]
 		</div>
-	</td></tr></tbody>
+	</td>
 </table>
 
 
 <table style="border: none!important;">
-	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://Jxu-Thu.github.io/images/pub/speechT_nips2022.jpg" width="250">
-	  </td>
 	  <td style="width:10px">
 	  </td>
 	  <td valign="middle">
@@ -198,21 +326,17 @@ td, th {
         </b>
         <br>
 		<i>
-        	NeurIPS 2021
+        	NeurIPS
         </i>
         <br>
 	    	Jiawei Chen, Xu Tan, Yichong Leng, <b>Jin Xu</b>, Guihua Wen, Tao Qin, Tie-Yan Liu
         <br>
 		[<a href="https://proceedings.neurips.cc/paper/2021/hash/344ef5151be171062f42f03e69663ecf-Abstract.html">PDF</a>]
 		</div>
-	</td></tr></tbody>
+	</td>
 </table>
 
-
 <table style="border: none!important;">
-	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://Jxu-Thu.github.io/images/pub/mixspeech_icassp.jpg" width="250">
-	  </td>
 	  <td style="width:10px">
 	  </td>
 	  <td valign="middle">
@@ -222,45 +346,20 @@ td, th {
         </b>
         <br>
 		<i>
-        	ICASSP 2021
+        	ICASSP
         </i>
         <br>
 	    	Linghui Meng, <b>Jin Xu</b>, Xu Tan, Jindong Wang, Tao Qin, Bo Xu
         <br>
 		[<a href="https://arxiv.org/abs/2102.12664">PDF</a>]
 		</div>
-	</td></tr></tbody>
+	</td>
 </table>
 
-<table style="border: none!important;">
-	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://Jxu-Thu.github.io/images/pub/symbiosis.png" width="250">
-	  </td>
-	  <td style="width:10px">
-	  </td>
-	  <td valign="middle">
-	    <div>
-		<b>
-			Effective Graph Learning with Adaptive Knowledge Exchange
-        </b>
-        <br>
-		<i>
-        	Arxiv Preprint
-        </i>
-        <br>
-	    	Liang Zeng*, <b>Jin Xu*</b>, Zijun Yao, Yanqiao Zhu, Jian Li
-        <br>
-		[<a href="https://arxiv.org/abs/2106.05455">PDF</a>]
-		</div>
-	</td></tr></tbody>
-</table>
 
 2020
 -----
 <table style="border: none!important;">
-	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://Jxu-Thu.github.io/images/pub/lrspeech_kdd2020.jpg" width="250">
-	  </td>
 	  <td style="width:10px">
 	  </td>
 	  <td valign="middle">
@@ -270,20 +369,17 @@ td, th {
         </b>
         <br>
 		<i>
-        	KDD 2020
+        	KDD
         </i>
         <br>
 	    	<b>Jin Xu</b>, Xu Tan, Yi Ren, Tao Qin, Jian Li, Sheng Zhao, Tie-Yan Liu
         <br>
 		[<a href="https://dl.acm.org/doi/pdf/10.1145/3394486.3403331">PDF</a>]
 		</div>
-	</td></tr></tbody>
+	</td>
 </table>
 
 <table style="border: none!important;">
-	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://Jxu-Thu.github.io/images/pub/revenue_icde2020.png" width="250">
-	  </td>
 	  <td style="width:10px">
 	  </td>
 	  <td valign="middle">
@@ -293,21 +389,18 @@ td, th {
         </b>
         <br>
 		<i>
-        	ICDE 2020, <b>Oral</b>
+        	ICDE, <b>Oral</b>
         </i>
         <br>
 	    	<b>Jin Xu</b>, Jingbo Zhou, Yongpo Jia, Jian Li, Xiong Hui
         <br>
 		[<a href="https://ieeexplore.ieee.org/abstract/document/9101395">PDF</a>]
 		</div>
-	</td></tr></tbody>
+	</td>
 </table>
 
 
 <table style="border: none!important;">
-	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://Jxu-Thu.github.io/images/pub/multispeech.jpg" width="250">
-	  </td>
 	  <td style="width:10px">
 	  </td>
 	  <td valign="middle">
@@ -317,23 +410,20 @@ td, th {
         </b>
         <br>
 		<i>
-        	InterSpeech 2020
+        	InterSpeech
         </i>
         <br>
 	    	Mingjian Chen, Xu Tan, Yi Ren, <b>Jin Xu</b>, Hao Sun, Sheng Zhao, Tao Qin, Tie-Yan Liu
         <br>
 		[<a href="https://indico2.conference4me.psnc.pl/event/35/contributions/3867/attachments/794/832/Thu-1-11-11.pdf">PDF</a>]
 		</div>
-	</td></tr></tbody>
+	</td>
 </table>
 
 2019
 -----
 
 <table style="border: none!important;">
-	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://Jxu-Thu.github.io/images/pub/poitag.jpg" width="250">
-	  </td>
 	  <td style="width:10px">
 	  </td>
 	  <td valign="middle">
@@ -343,12 +433,12 @@ td, th {
         </b>
         <br>
 		<i>
-        	KDD 2019
+        	KDD
         </i>
         <br>
 	    	Jingbo Zhou, Shan Gou, Renjun Hu, Dongxiang Zhang, <b>Jin Xu</b>, Airong Jiang, Ying Li, Hui Xiong
         <br>
 		[<a href="https://dl.acm.org/doi/abs/10.1145/3292500.3330698">PDF</a>]
 		</div>
-	</td></tr></tbody>
+	</td>
 </table>
