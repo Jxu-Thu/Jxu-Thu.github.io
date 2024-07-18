@@ -81,7 +81,7 @@ td, th {
         </b>
         <br>
 		<i>
-        	Arxiv Preprint
+        	ACL 2024
         </i>
         <br>
             Qian Yang, <b>Jin Xu</b>, Wenrui Liu, Yunfei Chu, Ziyue Jiang, Xiaohuan Zhou, Yichong Leng, Yuanjun Lv, Zhou Zhao, Chang Zhou, Jingren Zhou
