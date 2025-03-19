@@ -36,6 +36,71 @@ td, th {
 }
 </style>
 
+2025
+-----
+<table style="border: none!important;">
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	InSerter: Speech Instruction Following with Unsupervised Interleaved
+Pre-training
+        </b>
+        <br>
+		<i>
+        	Arxiv Preprint
+        </i>
+        <br>
+            Dingdong Wang*, Jin Xu*, Ruihang Chu, Zhifang Guo, Xiong Wang, Jincenzi Wu, Dongchao Yang, Shengpeng Ji, Junyang Lin
+        <br>
+		[<a href="https://arxiv.org/pdf/2503.02769">PDF</a>]
+		</div>
+	</td>
+</table>
+
+
+<table style="border: none!important;">
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	Qwen2.5-vl Technical Report
+        </b>
+        <br>
+		<i>
+        	Arxiv Preprint
+        </i>
+        <br>
+            Qwen Team
+        <br>
+		[<a href="https://arxiv.org/pdf/2502.13923">PDF</a>]
+		</div>
+	</td>
+</table>
+
+
+<table style="border: none!important;">
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	Qwen2.5 Technical Report
+        </b>
+        <br>
+		<i>
+        	Arxiv Preprint
+        </i>
+        <br>
+            Qwen Team
+        <br>
+		[<a href="https://arxiv.org/pdf/2412.15115">PDF</a>]
+		</div>
+	</td>
+</table>
+
 2024
 -----
 <table style="border: none!important;">
