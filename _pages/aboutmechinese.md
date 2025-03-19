@@ -19,7 +19,7 @@ author_profile: true
 * <i>2015</i> <b>一等奖</b> - 全国大学生数学竞赛
 * <i>2015</i> <b>一等奖</b> - 全国大学生部分地区物理竞赛
 
-Publications & Preprints (see Google Scholar for full list)
+Publications & Preprints (see <a href="https://scholar.google.com/citations?user=COYDNmYAAAAJ">here</a> for full list)
 ======
 
 <style>
