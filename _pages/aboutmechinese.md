@@ -4,7 +4,7 @@ title: "清华 - 徐进"
 permalink: /aboutmechinese/
 author_profile: true
 ---
-我目前是阿里巴巴通义千问语音和音视频负责人, 组内代表项目为Qwen-Omni, Qwen2-Audio和Qwen-Audio。我们致力于通用音频理解，音视频理解，实时音视频交互，大规模语音合成，通用音频合成以及围绕音频多模态的Chat模型研究。在此之前，我是<a href="https://iiis.tsinghua.edu.cn">清华大学交叉信息研究院</a>的博士生(2018-2023)，研究大模型自动架构搜索，低资源语音合成与识别，自回归语言模型重复问题的优化以及图模型应用等。博士生导师是<a href="http://people.iiis.tsinghua.edu.cn/~jianli">李建</a>教授。本科毕业于<a href="https://www.bupt.edu.cn">北京邮电大学</a>通信工程专业(2014-2018, 排名1/565)，获北京邮电大学特等奖学金。目前，我在ICLR、ICML、NeurIPS、KDD等国际人工智能顶级会议上发表论文数十篇。
+我目前是阿里巴巴通义千问语音负责人, 负责语音交互和音视频交互项目, 组内代表项目为Qwen-Omni, Qwen2-Audio和Qwen-Audio。我们致力于通用音频理解，音视频理解，实时音视频交互，大规模语音合成，通用音频合成以及围绕音频多模态的Chat模型研究。在此之前，我是<a href="https://iiis.tsinghua.edu.cn">清华大学交叉信息研究院</a>的博士生(2018-2023)，研究大模型自动架构搜索，低资源语音合成与识别，自回归语言模型重复问题的优化以及图模型应用等。博士生导师是<a href="http://people.iiis.tsinghua.edu.cn/~jianli">李建</a>教授。本科毕业于<a href="https://www.bupt.edu.cn">北京邮电大学</a>通信工程专业(2014-2018, 排名1/565)，获北京邮电大学特等奖学金。目前，我在ICLR、ICML、NeurIPS、KDD等国际人工智能顶级会议上发表论文数十篇。
 
 <span style="color:blue">News: 通义千问语音与音视频交互组正在招1.音视频协同理解 2.语音合成/识别 3. 音视频交互工程师 (RTC等交互链路) 校招/社招/实习，欢迎联系我 (jxu3425 dot gmail dot com)。</span>
 
