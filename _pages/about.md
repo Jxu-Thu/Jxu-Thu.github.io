@@ -14,8 +14,10 @@ I am currently leading the audio and video real-time interation group at Alibaba
 
 Internship
 ======
+* <i>2022.02 - 2022.10</i> Siri, Apple. Full-time Research Intern  
+Supervisor: <a href="https://scholar.google.com/citations?user=ukdqC6IAAAAJ">Xiaojiang Liu</a>
 * <i>2019.09 - 2020.10</i> Microsoft Research Asia. Full-time Research Intern  
-  Supervisor: <a href="https://www.microsoft.com/en-us/research/people/xuta/">Xu Tan</a>, <a href="https://www.microsoft.com/en-us/research/people/taoqin/">Tao Qin</a>
+  Supervisor: <a href="https://scholar.google.co.jp/citations?user=tob-U1oAAAAJ">Xu Tan</a>, <a href="https://scholar.google.com/citations?user=Bl4SRU0AAAAJ">Tao Qin</a>
 * <i>2018.07 - 2019.02</i> Business Intelligence Lab, Baidu. Full-time Research Intern  
   Supervisor: <a href="http://zhoujingbo.github.io/">Jingbo Zhou</a>, <a href="https://scholar.google.com/citations?user=cVDF1tkAAAAJ&hl=en">Hui Xiong</a>
   
