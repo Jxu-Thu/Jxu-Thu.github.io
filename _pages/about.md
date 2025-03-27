@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently leading the audio group at Qwen Team, Alibaba, responsible for research on audio/video understanding, real-time multimodal interaction, large-scale speech synthesis, general audio synthesis, general speech understanding, and chat models centered on audio. Prior to this, I was a Ph.D. student of Institute for Interdisciplinary Information Sciences (<a href="https://iiis.tsinghua.edu.cn">IIIS</a>) at <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a> (Beijing), researching large model automatic architecture search, low-resource speech synthesis and recognition, repetition problems in autoregressive language models, and applications of graph models. My doctoral advisor was Associate Professor <a href="http://people.iiis.tsinghua.edu.cn/~jianli">Prof. Jian Li</a>. I got BSc degree from <a href="https://www.bupt.edu.cn">Beijing of Posts and Telecommunication University</a> in 2018. During my undergraduate, I ranked first (1/565) and obtained the Special Scholarship (1/1600). Currently, I have published dozens of papers at top international AI conferences such as ICLR, ICML, NeurIPS, and KDD. My representative project is Qwen-Omni, Qwen2-Audio and Qwen-Audio.
+I am currently leading the audio group at Qwen Team, Alibaba, responsible for research on audio understanding, real-time multimodal interaction, speech synthesis, general audio synthesis, and chat models centered on audio. Prior to this, I was a Ph.D. student of Institute for Interdisciplinary Information Sciences (<a href="https://iiis.tsinghua.edu.cn">IIIS</a>) at <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a> (Beijing), researching large model automatic architecture search, low-resource speech synthesis and recognition, repetition problems in autoregressive language models, and applications of graph models. My doctoral advisor was Associate Professor <a href="http://people.iiis.tsinghua.edu.cn/~jianli">Prof. Jian Li</a>. I got BSc degree from <a href="https://www.bupt.edu.cn">Beijing of Posts and Telecommunication University</a> in 2018. During my undergraduate, I ranked first (1/565) and obtained the Special Scholarship (1/1600). Currently, I have published dozens of papers at top international AI conferences such as ICLR, ICML, NeurIPS, and KDD. My representative project is Qwen2.5-Omni, Qwen2-Audio and Qwen-Audio.
 
-<span style="color:blue">News: We are looking for interns or FTEs working for ASR, TTS, video real-time interation. Besides, we are seeking engineers for real-time speech/video interaction (RTC/Websocket). Please send the email to jxu3425 dot gmail dot com</span>
+<span style="color:blue">News: We are looking for interns or FTEs working for ASR, TTS, multimodality (video with audio) real-time interation. Besides, we are seeking engineers for real-time multimodality interaction (RTC/Websocket). Please send the email to jxu3425 dot gmail dot com</span>
 
 Internship
 ======
@@ -40,6 +40,26 @@ td, th {
 
 2025
 -----
+<table style="border: none!important;">
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	Qwen2.5-Omni Technical Report
+        </b>
+        <br>
+		<i>
+        	Arxiv Preprint
+        </i>
+        <br>
+            Qwen Team
+        <br>
+		[<a href="https://arxiv.org/abs/2503.20215">PDF</a>]
+		</div>
+	</td>
+</table>
+
 <table style="border: none!important;">
 	  <td style="width:10px">
 	  </td>
